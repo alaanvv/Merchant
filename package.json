@@ -1,0 +1,13 @@
+{
+  "name": "merchant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "enmap": "^5.9.5"
+  }
+}
